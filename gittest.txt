@@ -1,2 +1,2 @@
 gittest
-派生ブラン
+派生test2
